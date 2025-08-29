@@ -8,3 +8,6 @@ python
 ai
 ml
 ds
+opencv
+pandas
+numpy
